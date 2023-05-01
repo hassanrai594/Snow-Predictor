@@ -1,0 +1,26 @@
+{
+    "dependencies": {
+        "body-parser": "^1.20.1",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "ejs": "^3.1.8",
+        "express": "^4.18.2",
+        "express-es6-template-engine": "^2.2.3",
+        "nodemailer": "^6.9.1",
+        "nodemon": "^2.0.20",
+        "npm": "^9.5.0",
+        "request": "^2.88.2",
+        "twilio": "^4.7.2"
+    },
+    "name": "project",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
